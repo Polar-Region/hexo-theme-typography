@@ -43,4 +43,5 @@ block content
                             != __('next_post')+': ' + page.next.title
                             |&nbsp;
                             i.fa.fa-angle-double-right
-        include partial/comments
+        if page.comments !== false
+            include partial/comments
