@@ -24,9 +24,9 @@
     "url": "https://github.com/SumiMakito/hexo-theme-typography/issues"
   },
   "homepage": "https://github.com/SumiMakito/hexo-theme-typography/README.md",
-  "devDependencies": {},
   "dependencies": {
     "autoprefixer": "^10.4.13",
+    "hexo-deployer-git": "^4.0.0",
     "node-sass": "^8.0.0",
     "postcss": "^8.4.19",
     "postcss-cli": "^10.0.0",
