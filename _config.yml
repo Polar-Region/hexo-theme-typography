@@ -1,18 +1,19 @@
-title_primary: "活版印字" # the bigger text
-title_secondary: "Typography" # the smaller text
+title_primary: "随风浪敛，万般自在不言中" # the bigger text
+title_secondary: "polar-region's blog" # the smaller text
 keywords:
 
 twitter: #username
 rss: atom.xml
 weibo: #username/id
 instagram: #username
-github: #username
+github: polar-region
 
 # Choose the comment service according to your need.
 # Please do not use the two services at the same time.
 livere: # [data-uid] on livere.com
 disqus: # [short_name] on disqus.com
 dove: # For fun ONLY. Set to true to 'disable' comments on your site.
+giscus: true
 
 # Set true to show the page indicator.
 showPageCount: true
@@ -22,4 +23,4 @@ showCategories: true
 showTags: true
 
 # Color scheme
-themeStyle: light # light/dark
+themeStyle: light  # light/dark
